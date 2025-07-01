@@ -1,0 +1,2 @@
+Django Music Player is a web-based music streaming application built using the Django framework. It allows users to register, upload, store, and play their favorite songs directly from the browser. Key features include user authentication, playlist creation, song search, and advanced options like filtering and sorting tracks. The platform is designed with a clean and responsive interface to enhance the listening experience. Future enhancements may include social features like liking and sharing songs or playlists.
+
